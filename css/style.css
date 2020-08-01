@@ -4,8 +4,8 @@ body{
 button{
   padding: 9px 27px;
   border-radius: 23px;
-  background: rgba(0,0,0,0.4);
-  border: 1px solid white;
+  background: rgba(0,0,0,0.2);
+  border: 3px solid rgba(255, 236, 179, 0.68);
   width: 20%;
   outline: none;
 }
